@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5acd0873-a28a-4dff-9f93-846d2ce2a3a0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bpRjy62J5sA90azUUoKByYaJE3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ProyectoAlien" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\MR.MARK\Desktop\cumputacion\programacion\Python\curso_python\archivos_y_excepciones\Storing_Data\Using json" />
+      <recent name="C:\Users\MR.MARK\Desktop\cumputacion\programacion\Python\curso_python\archivos_y_excepciones\Storing_Data\Using json\Using_json_dump()" />
+      <recent name="C:\Users\MR.MARK\Desktop\cumputacion\programacion\Python\curso_python\archivos_y_excepciones\Exceptions\try-except_Blocks" />
+      <recent name="C:\Users\MR.MARK\Desktop\cumputacion\programacion\Python\curso_python\archivos_y_excepciones\reading_for__a_file" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.prueba12">
+    <configuration name="10-12_Favorite_Number_Remembered" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="archivos_y_excepciones" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Storing_Data/Refactoring" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Storing_Data/Refactoring/10-12_Favorite_Number_Remembered.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="10-13_Verify_User" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="archivos_y_excepciones" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Storing_Data/Refactoring" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Storing_Data/Refactoring/10-13_Verify_User.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="14_bucle_while" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="archivos_y_excepciones" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\MR.MARK\AppData\Local\Programs\Python\Python38-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../PYTHON1_3W/3wschools" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../PYTHON1_3W/3wschools/14_bucle_while.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="46_ejercicio_6_tabla_de_multiplicar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="archivos_y_excepciones" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\MR.MARK\AppData\Local\Programs\Python\Python38-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Bucles" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Bucles/46_ejercicio_6_tabla_de_multiplicar.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="prueba12" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="archivos_y_excepciones" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\MR.MARK\AppData\Local\Programs\Python\Python38-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/prueba12.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.10-12_Favorite_Number_Remembered" />
+      <item itemvalue="Python.10-13_Verify_User" />
+      <item itemvalue="Python.14_bucle_while" />
+      <item itemvalue="Python.46_ejercicio_6_tabla_de_multiplicar" />
+      <item itemvalue="Python.prueba12" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.prueba12" />
+        <item itemvalue="Python.14_bucle_while" />
+        <item itemvalue="Python.46_ejercicio_6_tabla_de_multiplicar" />
+        <item itemvalue="Python.10-13_Verify_User" />
+        <item itemvalue="Python.10-12_Favorite_Number_Remembered" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5acd0873-a28a-4dff-9f93-846d2ce2a3a0" name="Default Changelist" comment="" />
+      <created>1589327188101</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589327188101</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597894823608">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1597894823608" />
+    <state x="424" y="167" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1591337278234">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="424" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1591337278234" />
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591835479780">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1591835479780" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1598933637874">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1598933637874" />
+    <state width="1345" height="199" key="GridCell.Tab.0.bottom" timestamp="1597895957669">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="199" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1597895957669" />
+    <state width="1345" height="214" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1592012094801" />
+    <state width="1345" height="199" key="GridCell.Tab.0.center" timestamp="1597895957669">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="199" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1597895957669" />
+    <state width="1345" height="214" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1592012094800" />
+    <state width="1345" height="199" key="GridCell.Tab.0.left" timestamp="1597895957668">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="199" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1597895957668" />
+    <state width="1345" height="214" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1592012094796" />
+    <state width="1345" height="199" key="GridCell.Tab.0.right" timestamp="1597895957669">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="199" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1597895957669" />
+    <state width="1345" height="214" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1592012094801" />
+    <state width="1345" height="238" key="GridCell.Tab.1.bottom" timestamp="1592003380873">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="238" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1592003380873" />
+    <state width="1345" height="238" key="GridCell.Tab.1.center" timestamp="1592003380873">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="238" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1592003380873" />
+    <state width="1345" height="238" key="GridCell.Tab.1.left" timestamp="1592003380872">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="238" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1592003380872" />
+    <state width="1345" height="238" key="GridCell.Tab.1.right" timestamp="1592003380873">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state width="1345" height="238" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1592003380873" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1591337075843">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1591337075843" />
+    <state x="378" y="188" key="com.intellij.ide.util.TipDialog" timestamp="1598933564452">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="188" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1598933564452" />
+    <state x="346" y="89" key="search.everywhere.popup" timestamp="1591940644147">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="346" y="89" key="search.everywhere.popup/0.0.1366.768@0.0.1366.768" timestamp="1591940644147" />
+  </component>
+</project>

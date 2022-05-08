@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="42c0f0e9-a863-4cf5-ad87-eeaa8dbad32c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dFDtaM8rByx1ZVGtKd4DO0qrU3" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/testing_class" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\MR.MARK\Desktop\cumputacion\programacion\Python\curso_python\11_Testing_Your_Code\testing_class" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MR.MARK\Desktop\cumputacion\programacion\Python\curso_python\11_Testing_Your_Code\testing_class" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Unittests for Test_Employee.Employees_test.test_given_default_raise">
+    <configuration name="employees" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="11_Testing_Your_Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testing_class" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testing_class/employees.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for 11-2_test_city_country_population.Test_City_Country_Population.test_c_c_p" type="tests" factoryName="Unittests" nameIsGenerated="true">
+      <module name="11_Testing_Your_Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testing_funtion" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;11-2_test_city_country_population.Test_City_Country_Population.test_c_c_p&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for Test_Employee.Employees_test" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="11_Testing_Your_Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testing_class" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Test_Employee.Employees_test&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for Test_Employee.Employees_test.test_given_default_raise" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="11_Testing_Your_Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testing_class" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;Test_Employee.Employees_test.test_given_default_raise&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_survey_setUp.Survey_test" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="11_Testing_Your_Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testing_class" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_survey_setUp.Survey_test&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in Test_Employee.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="11_Testing_Your_Code" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testing_class" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/testing_class/Test_Employee.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Unittests for Test_Employee.Employees_test.test_given_default_raise" />
+        <item itemvalue="Python.employees" />
+        <item itemvalue="Python tests.Unittests for Test_Employee.Employees_test" />
+        <item itemvalue="Python tests.Unittests in Test_Employee.py" />
+        <item itemvalue="Python tests.Unittests for test_survey_setUp.Survey_test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42c0f0e9-a863-4cf5-ad87-eeaa8dbad32c" name="Default Changelist" comment="" />
+      <created>1592012163129</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592012163129</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="402" y="20" key="#Unittests_for_11-2_test_city_country_population.Test_City_Country_Population" timestamp="1592176411720">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="402" y="20" key="#Unittests_for_11-2_test_city_country_population.Test_City_Country_Population.test_c_c" timestamp="1592176271201">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="402" y="20" key="#Unittests_for_11-2_test_city_country_population.Test_City_Country_Population.test_c_c/0.0.1366.768@0.0.1366.768" timestamp="1592176271201" />
+    <state x="402" y="20" key="#Unittests_for_11-2_test_city_country_population.Test_City_Country_Population.test_c_c_p" timestamp="1592176253783">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="402" y="20" key="#Unittests_for_11-2_test_city_country_population.Test_City_Country_Population.test_c_c_p/0.0.1366.768@0.0.1366.768" timestamp="1592176253783" />
+    <state x="402" y="20" key="#Unittests_for_11-2_test_city_country_population.Test_City_Country_Population/0.0.1366.768@0.0.1366.768" timestamp="1592176411720" />
+    <state x="402" y="20" key="#Unittests_for_11-2_test_city_country_population.Test_City_Country_Population_(1)" timestamp="1592176297388">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="402" y="20" key="#Unittests_for_11-2_test_city_country_population.Test_City_Country_Population_(1)/0.0.1366.768@0.0.1366.768" timestamp="1592176297388" />
+    <state x="402" y="20" key="#Unittests_for_11-2_test_city_country_population.Test_City_Country_Population_(2)" timestamp="1592176329629">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="402" y="20" key="#Unittests_for_11-2_test_city_country_population.Test_City_Country_Population_(2)/0.0.1366.768@0.0.1366.768" timestamp="1592176329628" />
+    <state x="402" y="20" key="#Unittests_for_11-3_Employee.Employees_test" timestamp="1592199953704">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="402" y="20" key="#Unittests_for_11-3_Employee.Employees_test.test_given_default_raise" timestamp="1592199945552">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="402" y="20" key="#Unittests_for_11-3_Employee.Employees_test.test_given_default_raise/0.0.1366.768@0.0.1366.768" timestamp="1592199945552" />
+    <state x="402" y="20" key="#Unittests_for_11-3_Employee.Employees_test/0.0.1366.768@0.0.1366.768" timestamp="1592199953704" />
+    <state x="92" y="92" width="1182" height="584" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1592035161775">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="92" y="92" width="1182" height="584" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1366.768@0.0.1366.768" timestamp="1592035161775" />
+    <state x="412" y="167" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1592173410834">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="412" y="167" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.768@0.0.1366.768" timestamp="1592173410834" />
+    <state x="417" y="145" key="EnvironmentVariablesDialog" timestamp="1592173477874">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="417" y="145" key="EnvironmentVariablesDialog/0.0.1366.768@0.0.1366.768" timestamp="1592173477874" />
+    <state width="1345" height="193" key="GridCell.Tab.0.bottom" timestamp="1594506177581">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="193" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1594506177581" />
+    <state width="1345" height="207" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1592715477892" />
+    <state width="1345" height="193" key="GridCell.Tab.0.center" timestamp="1594506177580">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="193" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1594506177580" />
+    <state width="1345" height="207" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1592715477892" />
+    <state width="1345" height="193" key="GridCell.Tab.0.left" timestamp="1594506177578">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="193" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1594506177578" />
+    <state width="1345" height="207" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1592715477891" />
+    <state width="1345" height="193" key="GridCell.Tab.0.right" timestamp="1594506177580">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="193" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1594506177580" />
+    <state width="1345" height="207" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1592715477892" />
+    <state x="378" y="197" key="com.intellij.ide.util.TipDialog" timestamp="1594848094956">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="197" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1594848094956" />
+    <state x="378" y="208" key="com.intellij.ide.util.TipDialog/0.0.1366.768@0.0.1366.768" timestamp="1592173614922" />
+  </component>
+</project>

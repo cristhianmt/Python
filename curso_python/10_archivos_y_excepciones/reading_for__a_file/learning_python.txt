@@ -1,0 +1,3 @@
+in python you can learned some script to read any file in python
+in python you can read all the file and some lines
+in python you can find any character in the file

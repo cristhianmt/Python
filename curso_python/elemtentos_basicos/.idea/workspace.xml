@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="514f3609-b986-4f99-8285-e5967956c581" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="elemtentos_basicos" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1a3F8dZB4xW3rBEVdHxFXHY5mDE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../condicionales" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MR.MARK\Desktop\cumputacion\programacion\Python\curso_python\elemtentos_basicos\Ejercicios" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.17ejercicio5_descuento_del_15%">
+    <configuration name="13ejercicio1_operacion_aritmetica" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="elemtentos_basicos" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ejercicios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ejercicios/13ejercicio1_operacion_aritmetica.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="13ejercicio_propuesto_operacion_aritmetica" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="elemtentos_basicos" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ejercicios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ejercicios/13ejercicio_propuesto_operacion_aritmetica.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="15ejercicio3_intercambiar_valor_de_2_variable" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="elemtentos_basicos" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ejercicios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ejercicios/15ejercicio3_intercambiar_valor_de_2_variable.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="15ejercicio4_area_longitud de un circulo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="elemtentos_basicos" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ejercicios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ejercicios/15ejercicio4_area_longitud de un circulo" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="17ejercicio5_descuento_del_15%" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="elemtentos_basicos" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Ejercicios" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Ejercicios/17ejercicio5_descuento_del_15%.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.17ejercicio5_descuento_del_15%" />
+        <item itemvalue="Python.15ejercicio4_area_longitud de un circulo" />
+        <item itemvalue="Python.15ejercicio3_intercambiar_valor_de_2_variable" />
+        <item itemvalue="Python.13ejercicio_propuesto_operacion_aritmetica" />
+        <item itemvalue="Python.13ejercicio1_operacion_aritmetica" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="514f3609-b986-4f99-8285-e5967956c581" name="Default Changelist" comment="" />
+      <created>1585956211435</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585956211435</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="402" y="0" key="#13ejercicio1_operacion_aritmetica" timestamp="1586033365074">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="402" y="0" key="#13ejercicio1_operacion_aritmetica/0.0.1366.728@0.0.1366.728" timestamp="1586033365074" />
+    <state x="414" y="0" key="#Asignacion_variables" timestamp="1585956268163">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="414" y="0" key="#Asignacion_variables/0.0.1366.728@0.0.1366.728" timestamp="1585956268163" />
+    <state x="362" y="167" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586035826190">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="362" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1586035826190" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1586042644659">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1586042644659" />
+    <state width="1345" height="170" key="GridCell.Tab.0.bottom" timestamp="1586042652095">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="170" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586042652095" />
+    <state width="1345" height="170" key="GridCell.Tab.0.center" timestamp="1586042652095">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="170" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586042652095" />
+    <state width="1345" height="170" key="GridCell.Tab.0.left" timestamp="1586042652094">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="170" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586042652094" />
+    <state width="1345" height="170" key="GridCell.Tab.0.right" timestamp="1586042652095">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="170" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586042652095" />
+    <state width="1345" height="2" key="GridCell.Tab.1.bottom" timestamp="1586042652078">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="2" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586042652078" />
+    <state width="1345" height="2" key="GridCell.Tab.1.center" timestamp="1586042652077">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="2" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1586042652077" />
+    <state width="1345" height="2" key="GridCell.Tab.1.left" timestamp="1586042652077">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="2" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1586042652077" />
+    <state width="1345" height="2" key="GridCell.Tab.1.right" timestamp="1586042652078">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="2" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1586042652078" />
+    <state x="184" y="6" key="SettingsEditor" timestamp="1585956293935">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1585956293935" />
+    <state x="184" y="217" key="com.intellij.ide.util.TipDialog" timestamp="1586030279978">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="217" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586030279978" />
+    <state x="346" y="49" key="search.everywhere.popup" timestamp="1586037258846">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1586037258846" />
+  </component>
+</project>
